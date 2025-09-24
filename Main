@@ -1,6 +1,6 @@
 import micropip
-await micropip.install("urllib3 ")
-await micropip.install("requests")
+# await micropip.install("urllib3 ")
+# await micropip.install("requests")
 
 import numpy as np
 import pandas as pd
